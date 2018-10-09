@@ -1,0 +1,16 @@
+/**
+码农时钟酒店代码静态分析报告
+姓名：倪事通    学号：10165101281    微信号：nst1730889216
+
+IntelliJ IDEA阿里巴巴编码规约扫描报告
+
+不符合规范等级	文件名	行数	问题描述
+Blocker	PhoneClock.java	16	if没有大括号
+Critical	Clock.java	6	抽象类【Clock】应以Abstract或者Base开头
+Major	Clock.java	8	抽象方法【getTime】必须使用javadoc注释
+Major	Clock.java	6	【Clock】注释缺少@author信息
+Major	HotelWorldClockSystem.java	8	【HotelWorldClockSystem】注释缺少@author信息
+Major	CityClock.java	6	【CityClock】注释缺少@author信息
+Major	PhoneClock.java	6	【PhoneClock】注释缺少@author信息
+
+**/
